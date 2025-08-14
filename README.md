@@ -1,4 +1,4 @@
-# 👋 Hi, I'm thimadera!
+# 👋 Hi, I'm Thiago!
 
 👨‍💻 **Senior Developer** specializing in **Angular** and **React**  
 🚀 Passionate about tech, challenges, and game modding  
